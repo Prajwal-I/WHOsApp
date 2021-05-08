@@ -1,0 +1,11 @@
+.login-pane{
+    background-color: rgb(192, 192, 0);
+    padding-top: 0.1em;
+    color: rgb(156, 8, 8);
+    border-radius: 5px;
+    text-align: center;
+    width: 30em;
+    font: 1em sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
