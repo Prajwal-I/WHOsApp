@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend APIs and Db for WhosApp",
+  "main": "index.js",
+  "scripts": {
+    "devServer":"nodemon server.js"
+  },
+  "author": "Taha & Prajwal",
+  "license": "ISC"
+}
